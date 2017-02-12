@@ -1,1 +1,6 @@
-# JuanAguilar_Ej1
+# IvanTorroledo_Ej1.
+
+Integrantes :
+
+  Ivan Torroledo
+  Juan Aguilar
